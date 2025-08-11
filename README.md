@@ -359,6 +359,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Darya Redkina](https://reddev.in/)
 - [Dat Pham](https://datpham.dev/)
 - [David Hérault](https://dherault.com)
+- [Davide Petroni] (https://davide-portfolio.vercel.app/)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Deepak Chawla](https://deepak-chawla.com)
